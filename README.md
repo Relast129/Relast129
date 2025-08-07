@@ -1,6 +1,6 @@
 # Raheesh Ramsy
 
-**Founder & CEO @ Zentrium AI | AI Engineer (17) 😉 | AI Consultant & Strategist**
+**AI Engineer (17) 😉 | AI Consultant & Strategist**
 
 ---
 
