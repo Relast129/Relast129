@@ -36,16 +36,6 @@ Hey there! I’m Raheesh, the brain behind Zentrium AI and a passionate AI engin
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRtOHVpM3FvdTg3dG1tbnQzOTJoa2JzY2F4dGJyd2N5dTQwYjZ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="300" style="border-radius: 20px;" />
-
-</div>
-
----
-
-<style>
-body {
   background: linear-gradient(135deg, #fc5c7d 0%, #6a82fb 100%);
   color: #fff;
   font-family: 'Poppins', sans-serif;
