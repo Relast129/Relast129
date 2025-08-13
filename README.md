@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/raheeshramsy-ai](www.linkedin.com/in/raheeshramsy-ai)
 
-- ⚡ Fun fact **I built my first AI model before I even finished high school — entirely self-taught, using a dataset I created myself.**
+- ⚡ Fun fact **I built my first AI model before I even finished high school - entirely self-taught, using a dataset I created myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
